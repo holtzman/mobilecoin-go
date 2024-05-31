@@ -31,7 +31,7 @@ type TxC struct {
 }
 
 var myenclaves = []string{
-	"4a5daa23db5efa4b18071291cfa24a808f58fb0cedce7da5de804b011e87cfde", // v6.0.0 testnet
+	// "4a5daa23db5efa4b18071291cfa24a808f58fb0cedce7da5de804b011e87cfde", // v6.0.0 testnet
 	"34881106254a626842fa8557e27d07cdf863083e9e6f888d5a492a456720916f", // v6.0.0
 	"7d10f5e72cacc87a6027b2be42ed4a74a6370a03c3476be754933eb18c404b0b", // v5.0.0
 	// "a8af815564569aae3558d8e4e4be14d1bcec896623166a10494b4eaea3e1c48c", // v4.0.0
